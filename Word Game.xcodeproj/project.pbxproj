@@ -12,6 +12,7 @@
 		7679F3AA2C868C6800DBACA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7679F3A92C868C6800DBACA2 /* ViewController.swift */; };
 		7679F3AF2C868C6A00DBACA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7679F3AE2C868C6A00DBACA2 /* Assets.xcassets */; };
 		7679F3B22C868C6A00DBACA2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 7679F3B12C868C6A00DBACA2 /* Base */; };
+		7679F3BA2C868E8800DBACA2 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7679F3B92C868E8800DBACA2 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7679F3AE2C868C6A00DBACA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7679F3B12C868C6A00DBACA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7679F3B32C868C6A00DBACA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7679F3B92C868E8800DBACA2 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7679F3A92C868C6800DBACA2 /* ViewController.swift */,
 				7679F3AE2C868C6A00DBACA2 /* Assets.xcassets */,
 				7679F3B02C868C6A00DBACA2 /* LaunchScreen.storyboard */,
+				7679F3B92C868E8800DBACA2 /* start.txt */,
 				7679F3B32C868C6A00DBACA2 /* Info.plist */,
 			);
 			path = "Word Game";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7679F3AF2C868C6A00DBACA2 /* Assets.xcassets in Resources */,
+				7679F3BA2C868E8800DBACA2 /* start.txt in Resources */,
 				7679F3B22C868C6A00DBACA2 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
